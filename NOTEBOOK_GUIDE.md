@@ -42,3 +42,8 @@ Calculus, linear algebra, probability/statistics, numerical methods, basic Pytho
 ## Links to lecture chapters
 
 Notebook number = lecture chapter number. This one-to-one mapping is intentional.
+
+
+## Revision: rich-context edition
+
+Every computational cell is now preceded by a contextual explanation in academic Albanian. Crucial code lines carry comments that identify their methodological role. The intended teaching sequence is: question → reason for the step → code → observation → scientific interpretation. In class, code should be executed only after students have stated what they expect to see.
