@@ -1,4 +1,4 @@
-# Nxënia Automatike për Fizikë                 
+# Nxënia Automatike për Fizikë                  
 
 Kurs Bachelor (Fizikë dhe Shkenca Kompjuterike) i ndërtuar rreth 12 temave, nga formulimi i problemit dhe validimi deri te perceptroni. Rrjetat nervore përmenden vetëm në mënyrë përshkruese pas perceptronit; trajtimi i plotë lihet për ciklin Master.
 
